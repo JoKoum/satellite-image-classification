@@ -12,4 +12,4 @@ The project utilizes the JPG version of the satellite images dataset [*Planet: U
 
 [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) environment was used for setting up and training the networks. 
 
-[Jupyter Notebook Viewer link](https://nbviewer.jupyter.org/github/JoKoum/satellite-image-classification/blob/main/satellite_image_classification.ipynb)
+[Colab Notebook link](https://colab.research.google.com/github/JoKoum/satellite-image-classification/blob/main/satellite_image_classification.ipynb)
